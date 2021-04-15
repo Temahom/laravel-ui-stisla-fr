@@ -1,6 +1,6 @@
 {
     "name": "temahom/laravel-ui-stisla-fr",
-    "description": "Laravel frontend preset for Stisla Theme",
+    "description": "Pour les tableau de bord front-end baser sur stisla",
     "keywords": [
         "laravel",
         "preset",
