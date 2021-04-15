@@ -1,5 +1,5 @@
 {
-    "name": "temahom/laravel-ui-stisla-fr",
+    "name": "infyomlabs/laravel-ui-stisla",
     "description": "Laravel frontend preset for Stisla Theme",
     "keywords": [
         "laravel",
@@ -9,10 +9,10 @@
     "type": "library",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Mohamet Diatta",
-            "email": "diattamohamet30@gmail.com"
-        }
+            {
+                "name": "Mitul Golakiya",
+                "email": "me@mitul.me"
+            }
     ],
     "require": {
          "php": "^7.0|^8.0",
