@@ -13,15 +13,15 @@
 
 Run a command,
 
-`composer require infyomlabs/laravel-ui-stisla`
+`composer require Temahom/laravel-ui-stisla-fr`
 
 For Laravel 7,
 
-`composer require infyomlabs/laravel-ui-stisla:^2.0`
+`composer require Temahom/laravel-ui-stisla-fr`
 
 For Laravel 6,
 
-`composer require infyomlabs/laravel-ui-stisla:^1.0`
+`composer require Temahom/laravel-ui-stisla-fr`
 
 ## Usage
 
